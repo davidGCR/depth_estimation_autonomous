@@ -1,4 +1,4 @@
-# Monocular Depth Estimation - Kiwibot
+# Monocular Depth Estimation for Autonomous Driving
 ## Description
 This project presents a depth estimation model based on Deep Learning for a four camera robot.
 
